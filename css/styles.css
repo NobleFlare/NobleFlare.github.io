@@ -1,3 +1,4 @@
+
 .hero{
   background-color: #efefef;
   min-height: 500px;
@@ -13,4 +14,5 @@
 .navbar{
   padding: 0px;
   margin:0px;
+  background-color: #caebf2;
 }
