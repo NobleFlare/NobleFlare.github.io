@@ -1,7 +1,18 @@
+html{
+  height: 100%;
+}
+body{
+  height: 100%;
+}
 
 .hero{
   background-color: #efefef;
   min-height: 500px;
+  padding-bottom: 15%;
+  border-bottom-style: dashed;
+  border-width: 10px;
+  border-color: #a9a9a9;
+  height: 100%;
 }
 .hero h1{
   font-size: 80px;
@@ -15,4 +26,23 @@
   padding: 0px;
   margin:0px;
   background-color: #caebf2;
+}
+.portfolio-section{
+  background-color: #efefef;
+  padding-top: 5%;
+  height: 100%;
+}
+
+
+.example-text{
+  font-family: 'Anton', sans-serif;
+  color: #ff3b3f;
+  font-size: 90px;
+}
+.about-section{
+  height: 100%;
+}
+section h1{
+  color: #ff3b3f;
+  font-family: 'Anton', sans-serif;
 }
