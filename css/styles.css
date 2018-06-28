@@ -10,7 +10,7 @@ body{
 
 .hero{
   /* background-color: #efefef; */
-  min-height: 500px;
+  min-height: 750px;
   padding-bottom: 15%;
   border-bottom-style: dashed;
   border-width: 10px;
@@ -36,17 +36,24 @@ body{
   /* background-color: #efefef; */
   padding-top: 5%;
   height: 100%;
+  min-height: 600px;
 }
 
 
-.example-text{
+.example-text1{
   font-family: 'Anton', sans-serif;
   color: #ff3b3f;
   font-size: 90px;
 }
+.example-text2{
+  font-family: 'Anton', sans-serif;
+  color: #ff3b3f;
+  font-size: 45px;
+}
 .about-section{
   height: 110%;
   padding-top:35px;
+
 }
 section h1{
   color: #ff3b3f;
