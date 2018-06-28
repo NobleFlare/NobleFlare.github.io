@@ -1,18 +1,23 @@
 html{
   height: 100%;
+  background-image: url('../img/p4.png');
+  background-repeat: repeat;
 }
 body{
   height: 100%;
+  padding-top:50px;
 }
 
 .hero{
-  background-color: #efefef;
+  /* background-color: #efefef; */
   min-height: 500px;
   padding-bottom: 15%;
   border-bottom-style: dashed;
   border-width: 10px;
   border-color: #a9a9a9;
   height: 100%;
+  background-image: url('../img/p4.png');
+  background-repeat: repeat;
 }
 .hero h1{
   font-size: 80px;
@@ -28,7 +33,7 @@ body{
   background-color: #caebf2;
 }
 .portfolio-section{
-  background-color: #efefef;
+  /* background-color: #efefef; */
   padding-top: 5%;
   height: 100%;
 }
@@ -41,8 +46,13 @@ body{
 }
 .about-section{
   height: 100%;
+  padding-top:35px;
 }
 section h1{
   color: #ff3b3f;
   font-family: 'Anton', sans-serif;
+}
+.contact-section{
+  background-color: black;
+  color: white;
 }
